@@ -125,7 +125,7 @@ git push origin feature/AmazingFeature
 - **Dark Mode Support:** Ensure the app looks good in both light and dark modes.
 
 ## Credits
-Developed by Seher Ayesha
+Developed by [Seher Ayesha](https://github.com/seher-ayesha)
 
 ## License
 
